@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bckgrnd {
+    background-image: url("catcalc.jpg");
+    width: 50%;
+}
+
+button {
+    height: 30px;
+    font-size: 20px;
+    background-color: aqua;
+    font: arial;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+
+.div1,
+.div2 {
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+    margin-left: 1000px;
+    margin-top: 30px;
+    padding: 40px;
+}
+
+.good{
+    margin-bottom: 30px;
+    text-align: center;
+} 
+
+.goods{
+    /* margin-left: 80px; */
+    margin-left: 200px;
+}
+.display{
+    display: block;
+}
+
+.name{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.joy{
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+
+.dis{
+    text-align: center;
+    font-weight: bold;
+}
+
+.space{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+    margin-left: 1000px;
+    margin-top: 30px;
+    padding: 40px;
+}
+.hidden{
+    display: none;
+}
